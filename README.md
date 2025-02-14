@@ -35,7 +35,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 3.نصب وابستگی‌ها | Install the dependencies:
 ```
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ## نحوه استفاده | Usage
